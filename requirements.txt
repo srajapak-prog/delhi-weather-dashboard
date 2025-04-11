@@ -9,3 +9,5 @@ django-scheduler~=0.10.1
 folium==0.14.0
 
 streamlit-folium
+xlsxwriter
+
